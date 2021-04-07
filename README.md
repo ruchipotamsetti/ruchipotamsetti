@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ruchitacodes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ruchitacodes" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ruchita potamsetti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Ruchita Potamsetti" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ruchita-potamsetti/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Ruchita Potamsetti" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/potamsettiruchi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="potamsettiruchi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/potamsettiruchita" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="potamsettiruchita" height="30" width="40" /></a>
 </p>
