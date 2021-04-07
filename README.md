@@ -47,5 +47,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchipotamsetti&layout=compact&theme=nightowl)](https://github.com/ruchipotamsetti/github-readme-stats)
 
-
+## Have a laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api?username=ruchipotamsetti&theme=nightowl&borderColor=NULL)
