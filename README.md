@@ -43,12 +43,15 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruchipotamsetti&" alt="ruchipotamsetti" /></p>
 
+<br>
 
 [![Ruchita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruchipotamsetti&hide=contribs,prs,issues&show_icons=true&theme=nightowl)](https://github.com/ruchipotamsetti/github-readme-stats)
 
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchipotamsetti&layout=compact&theme=nightowl)](https://github.com/ruchipotamsetti/github-readme-stats)
 
+<br>
 
 ## Have a laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api?username=ruchipotamsetti&theme=nightowl&borderColor=NULL)
