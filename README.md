@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **python, web development**
 
+- 📫 How to reach me **potamsettiruchita@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ruchitacodes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ruchitacodes" height="30" width="40" /></a>
