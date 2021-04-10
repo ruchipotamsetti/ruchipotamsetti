@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **potamsettiruchita@gmail.com**
 
+- ⚡ Fun fact: I love to draw, paint. I am a HUGE fan of crime series: The Mentalist, Elementary, Dexter, CSI
+
 <br>
 
 <h3 align="left">Connect with me:</h3>
