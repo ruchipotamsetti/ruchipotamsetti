@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">A eager developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchipotamsetti&label=Profile%20views&color=0e75b6&style=flat" alt="ruchipotamsetti" /> </p>
-
+<!--
 <p align="left"> <a href="https://twitter.com/ruchitacodes" target="blank"><img src="https://img.shields.io/twitter/follow/ruchitacodes?logo=twitter&style=for-the-badge" alt="ruchitacodes" /></a> </p>
 
 - 🔭 I’m currently working on **beginner python projects**
