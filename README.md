@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 
 
 ## Have a laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api?username=ruchipotamsetti&theme=nightowl&borderColor=NULL)
+![Jokes Card](https://readme-jokes.vercel.app/api?username=ruchipotamsetti&theme=nightowl&borderColor=nightowl)
