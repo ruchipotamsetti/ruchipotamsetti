@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://twitter.com/ruchitacodes" target="blank"><img src="https://img.shields.io/twitter/follow/ruchitacodes?logo=twitter&style=for-the-badge" alt="ruchitacodes" /></a> </p>
 -->
 
-- 🔭 I’m currently working on **beginner python projects**
+- 🔭 I’m currently working on **DSA repository**
 
-- 🌱 I’m currently learning **python, web development**
+- 🌱 I’m currently learning **python, dsa**
 
 - 📫 How to reach me **potamsettiruchita@gmail.com**
 
