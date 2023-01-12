@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **python, dsa**
 
-- 📫 How to reach me **potamsettiruchita@gmail.com**
-
 - ⚡ Fun fact: I love to draw, paint. I am a HUGE fan of crime series: **The Mentalist, Elementary, Dexter, CSI, Bones, NCIS**
 
 <br>
