@@ -15,7 +15,14 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi, I'm Ruchita👋</h1>
-<h3 align="center">brainbbbbbbbbpp</h3>
+<h3 align="center"></h3>
+##Hi, I'm Ruchita
+- 🧠 Computer Science Graduate student at UF
+- 👩🏻‍💻 Bringing ideas to life and learning about new tools!
+<!-- - 🔭 I’m currently working on **DSA repository** -->
+- 🌱 I’m currently learning **Golang**
+- ⚡ Fun fact: I love to draw, paint. I am a HUGE fan of crime series: **The Mentalist, Elementary, Dexter, CSI, Bones, NCIS**
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchipotamsetti&label=Profile%20views&color=0e75b6&style=flat" alt="ruchipotamsetti" /> </p>
 <!--
