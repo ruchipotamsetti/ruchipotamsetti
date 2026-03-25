@@ -105,12 +105,6 @@
 
 ---
 
-### 🔝 Top contributed repos
-
-![](https://github-contributor-stats.vercel.app/api?username=ruchipotamsetti&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ruchipotamsetti&label=Profile%20views&color=0e75b6&style=flat" alt="ruchipotamsetti" />
 </p>
