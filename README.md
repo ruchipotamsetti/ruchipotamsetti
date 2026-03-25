@@ -18,7 +18,7 @@
 - 🎓 Wrapping up my Master's at UF; one semester left, infinite coffee consumed
 - 💻 Full-stack engineer who wandered into distributed systems and never left
 - 🔭 Currently working on real-time ML pipelines and mass spectrometry visualization tools @ SunLab, UF
-- 🌱 Most recent rabbit hole: **Apache Kafka + collaborative filtering** — turns out recommending movies is harder than watching them
+- 🌱 Most recent rabbit hole: Building StreamRank using **Apache Kafka + collaborative filtering** - turns out recommending movies is harder than watching them
 - 🏆 Certified in OCI Generative AI, AWS, and Azure — yes, all three clouds, no I don't have a favourite
 - 🔍 Open to **SWE, AI Engineering, and Backend Engineering** roles starting May 2026
 - ⚡ Fun fact: I paint, draw, and have consumed an irresponsible amount of crime TV — The Mentalist, Dexter, Elementary, Bones, NCIS, Castle, CSI. I basically have a PhD in fictional forensics.
