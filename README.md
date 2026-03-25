@@ -7,6 +7,9 @@
   I like hard problems, clean solutions, and the occasional rabbit hole.
   </em>
 </p>
+<p align="center">
+  <img src="typing.gif" alt="Typing"/>
+</p>
 
 ---
 
