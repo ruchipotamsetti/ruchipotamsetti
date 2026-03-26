@@ -15,13 +15,13 @@
 
 ### 🧠 About me
 
-- 🎓 Wrapping up my Master's at UF; one semester left, infinite coffee consumed
+- 🎓 Wrapping up my Master's at UF - one semester left, infinite coffee consumed
 - 💻 Full-stack engineer who wandered into distributed systems and never left
 - 🔭 Currently working on real-time ML pipelines and mass spectrometry visualization tools @ SunLab, UF
 - 🌱 Most recent rabbit hole: Building StreamRank using **Apache Kafka + collaborative filtering** - turns out recommending movies is harder than watching them
-- 🏆 Certified in OCI Generative AI, AWS, and Azure — yes, all three clouds, no I don't have a favourite
+- 🏆 Certified in OCI Generative AI, AWS, and Azure - yes, all three clouds, no I don't have a favourite
 - 🔍 Open to **SWE, AI Engineering, and Backend Engineering** roles starting May 2026
-- ⚡ Fun fact: I paint, draw, and have consumed an irresponsible amount of crime TV — The Mentalist, Dexter, Elementary, Bones, NCIS, Castle, CSI. I basically have a PhD in fictional forensics.
+- ⚡ Fun fact: I paint, draw, and have consumed an irresponsible amount of crime TV: Law and Order, The Mentalist, Dexter, Elementary, Bones, NCIS, Castle, CSI. I basically have a PhD in fictional forensics.
 
 ---
 
@@ -91,9 +91,9 @@
 | Project | What it does | Stack |
 |---|---|---|
 | [⚡ StreamRank](https://github.com/ruchipotamsetti/streamrank) | Real-time movie recommendation engine — Kafka streams clicks, Redis caches results, collaborative filtering does the magic | Kafka · Redis · scikit-learn · Streamlit · Docker |
+| [☕ Bean Journal](https://github.com/ruchipotamsetti/bean-journal) | Full-stack coffee logging app with a custom design system. For people who take coffee too seriously. | Next.js · Supabase · Prisma · Tailwind |
 | [🏥 MediConnect](https://github.com/ruchipotamsetti/MediConnect) | AI triage platform that cuts patient wait time from 8 mins to under 3 mins using a voice-enabled LLM agent | React · Gemini API · Python |
 | [🔬 Multi-Tool Research Agent](https://github.com/ruchipotamsetti/multi-tool-ra) | Automates literature review — classify, summarize, retrieve related work, suggest ideas — in one pipeline | Python · Groq · NLP · Streamlit |
-| [☕ Bean Journal](https://github.com/ruchipotamsetti/bean-journal) | Full-stack coffee logging app with a custom design system. For people who take coffee too seriously. | Next.js · Supabase · Prisma · Tailwind |
 
 ---
 
